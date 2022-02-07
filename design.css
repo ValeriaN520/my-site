@@ -1,0 +1,8 @@
+body {
+    background-color:aliceblue; /* Цвет фона веб-страницы */
+  }
+h1{
+    color:rgb(0, 0, 0); /* Цвет заголовка */
+  font-family: Georgia, Times, serif; /* Семейство шрифтов */
+  font-weight: normal; /* Нормальное начертание текста  */
+}
